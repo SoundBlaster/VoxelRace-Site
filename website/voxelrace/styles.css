@@ -7,3 +7,5 @@ body{overflow-x:clip}
 .track-frame img{height:auto}
 .ticker{width:100%;margin-left:0;transform:none}
 .launch-status{display:inline-block;position:relative;z-index:1;margin:0;padding:11px 0;border-block:2px solid #84372a;font-size:13px;font-weight:900;letter-spacing:.06em}
+
+.brand-icon{width:44px;height:44px;object-fit:cover;border-radius:10px;flex:none}
